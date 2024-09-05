@@ -1,0 +1,6 @@
+2024-09-05 15:25:59.176053	Entered Clustering class.
+2024-09-05 15:25:59.177061	Entered silhoutte_score method.
+2024-09-05 15:26:00.107596	Successfully got 6 as a final k value for clustering with 0.2855429123122934 silhoutte score.
+2024-09-05 15:26:00.108641	Entered Create_Clusters_From_Data method.
+2024-09-05 15:26:00.171101	Fitted clustering model on the data.
+2024-09-05 15:26:00.176231	Returning Updated data from 'Create_Clusters_From_Data' method with one added column 'cluster'.
