@@ -26,11 +26,12 @@ learning algorithms that’s best fit for the above case.
 
 ### Cloud Platform
 - Cloud platform Heroku is used for hosting the solution.
+- https://ml-concrete-strength.herokuapp.com/
 
 ### Logging
 - Python logging library is employed for logging every action performed by the code. finally logs are being saved in GitHub Repository [Logging](https://github.com/Utkarsh2108/Concrete-Compressive-Strength-Prediction/tree/main/logs)
 
-### Documentation link : - [link](https://drive.google.com/drive/folders/1lPuFKlAAFBHBjlp3SOUvCgdePgnEVSGy)
+### Documentation link - [link](https://drive.google.com/drive/folders/1lPuFKlAAFBHBjlp3SOUvCgdePgnEVSGy)
 ### To Build this project
 ```
 git clone https://github.com/Utkarsh2108/Concrete-Compressive-Strength-Prediction.git
