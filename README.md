@@ -8,8 +8,8 @@ effort by using Data Science to estimate how much quantity of which raw material
 need for acceptable compressive strength.
 
 ### Dataset
-- **Dataset Link:** [Concrete Compressive Strength Data Sett]([https://data.mendeley.com/datasets/72ptz43s9v/1](https://www.kaggle.com/datasets/elikplim/concrete-compressive-strength-data-set))
-
+- **Dataset Link:** [Dataset](https://www.kaggle.com/datasets/elikplim/concrete-compressive-strength-data-set)
+- 
 ### Approach
 The classical machine learning tasks like Data Exploration, Data Cleaning,
 Feature Engineering, Model Building and Model Testing. Try out different machine
